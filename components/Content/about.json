@@ -1,0 +1,29 @@
+{
+  "metaTitle": "Family-owned & local Plumbing Specialists in [location]",
+  "metaDescription": "Local, licensed plumbers in [location] for 24/7 emergencies, drain cleaning, leak detection, and water heater repair. Upfront pricing and fast service. Call [phone].",
+  "bannerQuote": "Family-owned & local • 24/7 Emergency Service • Average 60–90 min arrival • 4.9★ rated • Upfront, flat-rate pricing",
+  "bannerImage": "https://ik.imagekit.io/z6skgnupx/michaelsplumbingservices_com/Plumbing_Services_about_bannerImage_xb_y5GC3r.jpg",
+  "h1Banner": "Family-owned & local Plumbing Specialists in [location]",
+  "p1Banner": "Local, licensed plumbers in [location] for 24/7 emergencies, drain cleaning, leak detection, and water heater repair. Upfront pricing and fast service. Call [phone].",
+  "p2": "Michaels Plumbing Services delivers licensed residential and commercial plumbing in [location]—from 24/7 emergency plumbing and burst pipe repair to drain cleaning and hydro-jetting, leak detection, trenchless sewer repair, water heater repair & installation (tank and tankless), toilet and faucet repair, garbage disposals, sump pumps, gas lines, and backflow testing. Every visit is backed by clear communication, clean workmanship, and durable results. <br/> Why homeowners, property managers, and businesses choose us: average 60–90 minute emergency arrival, 90% of repairs completed in a single visit with fully stocked trucks, upfront flat-rate quotes before work begins, and respectful service (shoe covers, floor protection, and full cleanup). We’re local to [location], so you get faster response times and accountable, neighborly service that big franchise brands can’t match. <br/> With 2,500+ jobs completed and a 4.9-star average rating, we’re the trusted choice for “plumber near me,” “emergency plumber [location],” “drain cleaning [location],” and “water heater repair [location].” Call [phone] to schedule same-day service or request a free estimate.",
+  "h2Image": "https://ik.imagekit.io/z6skgnupx/michaelsplumbingservices_com/Plumbing_Services_about_h2Image_ig_cCLCgP.jpg",
+  "missionSection": [
+    {
+      "title": "Our Mission",
+      "description": "To provide fast, dependable, and affordable plumbing in [location] with expert craftsmanship, honest pricing, and respect for your home or business—every single visit."
+    },
+    {
+      "title": "Our Vision",
+      "description": "To be the most trusted plumbing company in [location] by delivering same-day service, transparent communication, and long-lasting repairs backed by strong warranties."
+    },
+    {
+      "title": "Our Values",
+      "description": "Punctuality, integrity, and quality. We give upfront options, protect your property, keep work areas clean, and do the job right the first time—guaranteed."
+    }
+  ],
+  "areaweserveSection": {
+    "description": "We proudly provide plumbing services across [location], serving homes, apartments, offices, restaurants, medical facilities, and light commercial properties.",
+    "linkText": "Check our Plumbing Service locations here.",
+    "link": "/locations"
+  }
+}
